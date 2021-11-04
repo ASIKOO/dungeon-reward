@@ -1,0 +1,9 @@
+catacomb.quest
+
+# find
+
+		when 2598.kill begin
+
+add under
+
+		pc.open_dr_gui()
